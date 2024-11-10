@@ -12,4 +12,4 @@ Bem-vindo(a) ao meu primeiro desafio da Trilha de CSS da DIO! Neste projeto, des
 
 Para iniciar o desafio, basta fazer um **fork** deste repositório no meu GitHub e começar a editar o projeto. Dentro da pasta `main`, estão disponíveis todas as imagens e o arquivo HTML com a estrutura básica da página. Minha tarefa foi fazer a estilização completa da página, vinculando o HTML com as folhas de estilo para que o design funcione corretamente.
 
-[Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6): Protótipo do desafio original.
+[Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) Protótipo do desafio.
