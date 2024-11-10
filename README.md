@@ -3,6 +3,7 @@
 Bem-vindo(a) ao meu primeiro desafio da Trilha de CSS da DIO! Neste projeto, desenvolvi minha primeira Landing Page utilizando HTML e CSS. O objetivo foi colocar em prática os fundamentos do CSS, explorando as propriedades essenciais e as unidades de medida relativas e absolutas que aprendi durante a trilha.
 
 [Clique aqui](https://viniciusfariac.github.io/trilha-css-desafio-01/) para conferir o meu resultado final da Landing Page do desagio!
+
 [Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para conferir o resultado final original da Landing Page do desafio!
 
 ![Imagem da Landing Page](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
